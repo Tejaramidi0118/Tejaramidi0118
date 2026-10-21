@@ -137,31 +137,6 @@ A web-based drone-delivery simulation using RRT* path planning, map visualisatio
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-<h2>🧩 LeetCode Journey</h2>
-
-<div align="center">
-
-<a href="https://leetcode.com/u/teja_r/">
-  <img
-    src="https://leetcard.jacoblin.cool/teja_r?theme=forest&font=Ubuntu"
-    width="65%"
-    alt="LeetCode statistics for teja_r"
-  />
-</a>
-
-<br/>
-
-<a href="https://leetcode.com/u/teja_r/">
-  <img
-    src="https://img.shields.io/badge/VIEW_LEETCODE_PROFILE-50C878?style=for-the-badge&logo=leetcode&logoColor=15251B"
-    alt="View LeetCode profile"
-  />
-</a>
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
 <h2>🕹️ Contribution Arcade</h2>
 
 <div align="center">
