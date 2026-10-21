@@ -1,14 +1,223 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="285" viewBox="0 0 1200 285" role="img" aria-labelledby="t d">
-<title id="t">Technology Stack — Ramidi Teja</title><desc id="d">Grouped technologies across programming, machine learning, generative AI, application development, and tools.</desc>
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#020a06"/><stop offset="1" stop-color="#082015"/></linearGradient><pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#17552f" stroke-width=".5" opacity=".5"/></pattern></defs>
-<rect width="1200" height="285" rx="14" fill="url(#bg)" stroke="#2cc66c"/><rect width="1200" height="285" rx="14" fill="url(#grid)"/>
-<text x="28" y="39" font-family="ui-monospace,monospace" font-size="22" font-weight="bold" fill="#75f5a5">⬡ TECHNOLOGY STACK</text><text x="815" y="38" font-family="ui-monospace,monospace" font-size="12" fill="#75f5a5">TOOLS FOR IDEAS → SYSTEMS FOR IMPACT</text>
-<g font-family="ui-monospace,monospace">
-<rect x="25" y="57" width="220" height="155" rx="10" fill="#04130b" stroke="#267f49"/><text x="42" y="82" font-size="14" fill="#8effb8">LANGUAGES</text><path d="M40 93H230" stroke="#185a32"/><text x="43" y="123" font-size="16" fill="#eafff1">Python</text><text x="43" y="147" font-size="12" fill="#8effb8">Java · C · C++ · SQL</text><circle cx="62" cy="179" r="16" fill="none" stroke="#3ad878"/><path d="M52 179h20m-10-10v20" stroke="#3ad878"/>
-<rect x="257" y="57" width="220" height="155" rx="10" fill="#04130b" stroke="#267f49"/><text x="274" y="82" font-size="14" fill="#8effb8">AI / ML / DL</text><path d="M272 93H462" stroke="#185a32"/><text x="275" y="123" font-size="15" fill="#eafff1">PyTorch</text><text x="275" y="147" font-size="12" fill="#8effb8">TensorFlow</text><text x="275" y="169" font-size="12" fill="#8effb8">scikit-learn · Transformers</text><circle cx="294" cy="190" r="7" fill="none" stroke="#3ad878"/><circle cx="310" cy="190" r="7" fill="none" stroke="#3ad878"/>
-<rect x="489" y="57" width="220" height="155" rx="10" fill="#04130b" stroke="#267f49"/><text x="506" y="82" font-size="14" fill="#8effb8">NLP / GEN AI</text><path d="M504 93H694" stroke="#185a32"/><text x="507" y="123" font-size="15" fill="#eafff1">LLMs · RAG</text><text x="507" y="147" font-size="12" fill="#8effb8">LangChain · Hugging Face</text><text x="507" y="169" font-size="12" fill="#8effb8">Prompt Engineering</text><path d="M510 191h22l8-9 9 17 9-8h22" fill="none" stroke="#3ad878" stroke-width="2"/>
-<rect x="721" y="57" width="220" height="155" rx="10" fill="#04130b" stroke="#267f49"/><text x="738" y="82" font-size="14" fill="#8effb8">APPLICATIONS / DATA</text><path d="M736 93H926" stroke="#185a32"/><text x="739" y="123" font-size="15" fill="#eafff1">Flask · FastAPI</text><text x="739" y="147" font-size="12" fill="#8effb8">PostgreSQL · REST APIs</text><text x="739" y="169" font-size="12" fill="#8effb8">Spark · Geospatial</text><path d="M740 192h35v-12h20v12h35" fill="none" stroke="#3ad878" stroke-width="2"/>
-<rect x="953" y="57" width="222" height="155" rx="10" fill="#04130b" stroke="#267f49"/><text x="970" y="82" font-size="14" fill="#8effb8">TOOLS / PLATFORMS</text><path d="M968 93H1160" stroke="#185a32"/><text x="971" y="123" font-size="15" fill="#eafff1">Docker · Git</text><text x="971" y="147" font-size="12" fill="#8effb8">GitHub · Google Cloud</text><text x="971" y="169" font-size="12" fill="#8effb8">Linux · Hadoop</text><path d="M973 190l9-9 9 9 9-9 9 9" fill="none" stroke="#3ad878" stroke-width="2"/>
-</g>
-<path d="M20 245Q100 220 180 246T340 244T500 245T660 244T820 245T980 244T1180 244" fill="none" stroke="#2ed878" stroke-width="1.6"/><path d="M20 257Q100 232 180 258T340 256T500 257T660 256T820 257T980 256T1180 256" fill="none" stroke="#1b8549" opacity=".8"/><text x="600" y="276" text-anchor="middle" font-family="ui-monospace,monospace" font-size="12" fill="#75f5a5">LEARN  ·  BUILD  ·  EXPERIMENT  ·  IMPROVE</text>
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="350" viewBox="0 0 1200 350"
+     role="img" aria-labelledby="title desc">
+
+  <title id="title">Ramidi Teja — Technology Stack</title>
+  <desc id="desc">Programming languages, machine learning frameworks, AI technologies, application development, and infrastructure tools.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#030a06"/>
+      <stop offset="100%" stop-color="#081b10"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#36d879"/>
+      <stop offset="100%" stop-color="#a5ffca"/>
+    </linearGradient>
+
+    <pattern id="grid" width="24" height="24"
+             patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24"
+            fill="none" stroke="#17452b"
+            stroke-width="0.6" opacity="0.45"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="350" rx="14"
+        fill="url(#background)"/>
+  <rect width="1200" height="350" rx="14"
+        fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="348" rx="13"
+        fill="none" stroke="#287d49"/>
+
+  <!-- Header -->
+  <text x="30" y="42"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="23" font-weight="700"
+        letter-spacing="1.5" fill="#8bffb3">
+    TECHNOLOGY STACK
+  </text>
+
+  <text x="1170" y="40" text-anchor="end"
+        font-family="monospace" font-size="12"
+        letter-spacing="1" fill="#62d990">
+    LANGUAGES · AI · ENGINEERING
+  </text>
+
+  <path d="M30 59H1170"
+        stroke="#24663d" stroke-width="1"/>
+
+  <!-- Category 1: Languages -->
+  <g>
+    <rect x="25" y="78" width="218" height="222" rx="10"
+          fill="#041009" stroke="#287d49"/>
+
+    <text x="43" y="108"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="16" font-weight="700" fill="#8bffb3">
+      LANGUAGES
+    </text>
+    <path d="M43 121H225" stroke="#194d2d"/>
+
+    <g font-family="monospace" font-size="14" fill="#e3f9e9">
+      <rect x="43" y="140" width="5" height="5" rx="1" fill="#57e88e"/>
+      <text x="58" y="147">Python</text>
+
+      <rect x="43" y="172" width="5" height="5" rx="1" fill="#57e88e"/>
+      <text x="58" y="179">Java</text>
+
+      <rect x="43" y="204" width="5" height="5" rx="1" fill="#57e88e"/>
+      <text x="58" y="211">C / C++</text>
+
+      <rect x="43" y="236" width="5" height="5" rx="1" fill="#57e88e"/>
+      <text x="58" y="243">SQL</text>
+    </g>
+
+    <path d="M43 270H225" stroke="#194d2d"/>
+    <text x="43" y="286"
+          font-family="monospace" font-size="11"
+          fill="#62d990">CORE PROGRAMMING</text>
+  </g>
+
+  <!-- Category 2: ML frameworks -->
+  <g>
+    <rect x="259" y="78" width="218" height="222" rx="10"
+          fill="#041009" stroke="#287d49"/>
+
+    <text x="277" y="108"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="16" font-weight="700" fill="#8bffb3">
+      ML / DEEP LEARNING
+    </text>
+    <path d="M277 121H459" stroke="#194d2d"/>
+
+    <g font-family="monospace" font-size="13" fill="#e3f9e9">
+      <rect x="277" y="140" width="5" height="5" rx="1" fill="#57e88e"/>
+      <text x="292" y="147">PyTorch</text>
+
+      <rect x="277" y="172" width="5" height="5" rx="1" fill="#57e88e"/>
+      <text x="292" y="179">TensorFlow</text>
+
+      <rect x="277" y="204" width="5" height="5" rx="1" fill="#57e88e"/>
+      <text x="292" y="211">scikit-learn</text>
+
+      <rect x="277" y="236" width="5" height="5" rx="1" fill="#57e88e"/>
+      <text x="292" y="243">Hugging Face</text>
+    </g>
+
+    <path d="M277 270H459" stroke="#194d2d"/>
+    <text x="277" y="286"
+          font-family="monospace" font-size="11"
+          fill="#62d990">MODEL DEVELOPMENT</text>
+  </g>
+
+  <!-- Category 3: AI domains and libraries -->
+  <g>
+    <rect x="493" y="78" width="218" height="222" rx="10"
+          fill="#041009" stroke="#287d49"/>
+
+    <text x="511" y="108"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="16" font-weight="700" fill="#8bffb3">
+      AI / NLP / CV
+    </text>
+    <path d="M511 121H693" stroke="#194d2d"/>
+
+    <g font-family="monospace" font-size="13" fill="#e3f9e9">
+      <rect x="511" y="140" width="5" height="5" rx="1" fill="#57e88e"/>
+      <text x="526" y="147">Transformers</text>
+
+      <rect x="511" y="172" width="5" height="5" rx="1" fill="#57e88e"/>
+      <text x="526" y="179">LangChain</text>
+
+      <rect x="511" y="204" width="5" height="5" rx="1" fill="#57e88e"/>
+      <text x="526" y="211">OpenCV</text>
+
+      <rect x="511" y="236" width="5" height="5" rx="1" fill="#57e88e"/>
+      <text x="526" y="243">MediaPipe</text>
+    </g>
+
+    <path d="M511 270H693" stroke="#194d2d"/>
+    <text x="511" y="286"
+          font-family="monospace" font-size="11"
+          fill="#62d990">INTELLIGENT SYSTEMS</text>
+  </g>
+
+  <!-- Category 4: Application development -->
+  <g>
+    <rect x="727" y="78" width="218" height="222" rx="10"
+          fill="#041009" stroke="#287d49"/>
+
+    <text x="745" y="108"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="16" font-weight="700" fill="#8bffb3">
+      DEVELOPMENT
+    </text>
+    <path d="M745 121H927" stroke="#194d2d"/>
+
+    <g font-family="monospace" font-size="13" fill="#e3f9e9">
+      <rect x="745" y="140" width="5" height="5" rx="1" fill="#57e88e"/>
+      <text x="760" y="147">Flask</text>
+
+      <rect x="745" y="172" width="5" height="5" rx="1" fill="#57e88e"/>
+      <text x="760" y="179">FastAPI</text>
+
+      <rect x="745" y="204" width="5" height="5" rx="1" fill="#57e88e"/>
+      <text x="760" y="211">REST APIs</text>
+
+      <rect x="745" y="236" width="5" height="5" rx="1" fill="#57e88e"/>
+      <text x="760" y="243">PostgreSQL</text>
+    </g>
+
+    <path d="M745 270H927" stroke="#194d2d"/>
+    <text x="745" y="286"
+          font-family="monospace" font-size="11"
+          fill="#62d990">BACKEND &amp; DATA</text>
+  </g>
+
+  <!-- Category 5: Tools and infrastructure -->
+  <g>
+    <rect x="961" y="78" width="214" height="222" rx="10"
+          fill="#041009" stroke="#287d49"/>
+
+    <text x="979" y="108"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="16" font-weight="700" fill="#8bffb3">
+      TOOLS &amp; CLOUD
+    </text>
+    <path d="M979 121H1157" stroke="#194d2d"/>
+
+    <g font-family="monospace" font-size="13" fill="#e3f9e9">
+      <rect x="979" y="140" width="5" height="5" rx="1" fill="#57e88e"/>
+      <text x="994" y="147">Git / GitHub</text>
+
+      <rect x="979" y="172" width="5" height="5" rx="1" fill="#57e88e"/>
+      <text x="994" y="179">Docker</text>
+
+      <rect x="979" y="204" width="5" height="5" rx="1" fill="#57e88e"/>
+      <text x="994" y="211">Google Cloud</text>
+
+      <rect x="979" y="236" width="5" height="5" rx="1" fill="#57e88e"/>
+      <text x="994" y="243">Spark / Hadoop</text>
+    </g>
+
+    <path d="M979 270H1157" stroke="#194d2d"/>
+    <text x="979" y="286"
+          font-family="monospace" font-size="11"
+          fill="#62d990">INFRASTRUCTURE</text>
+  </g>
+
+  <!-- Footer accent -->
+  <path d="M30 320H1170" stroke="url(#accent)" stroke-width="1.5"/>
+  <circle cx="30" cy="320" r="3" fill="#8bffb3"/>
+  <circle cx="1170" cy="320" r="3" fill="#8bffb3"/>
+
+  <text x="600" y="340" text-anchor="middle"
+        font-family="monospace" font-size="11"
+        letter-spacing="2" fill="#62d990">
+    DESIGN  ·  DEVELOP  ·  EVALUATE  ·  DEPLOY
+  </text>
 </svg>
