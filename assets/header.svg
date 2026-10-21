@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Ramidi Teja — AI and Machine Learning</title><desc id="desc">Dark green technology banner with terminal-inspired typography and abstract circuit details.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#020806"/><stop offset=".55" stop-color="#061a11"/><stop offset="1" stop-color="#020604"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#3bd879"/><stop offset="1" stop-color="#b3ffd0"/></linearGradient>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#1d7546" stroke-width=".7" opacity=".34"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/><rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+<g fill="none" stroke="#35dc7b" opacity=".65"><path d="M0 55H90V82H150 M1200 70H1090V102H1040 M0 245H170V220H250 M1200 230H1060V258H980" stroke-width="2"/><circle cx="90" cy="55" r="4" fill="#35dc7b"/><circle cx="1090" cy="70" r="4" fill="#35dc7b"/><circle cx="170" cy="245" r="4" fill="#35dc7b"/><circle cx="1060" cy="230" r="4" fill="#35dc7b"/></g>
+<g opacity=".22" fill="#2ee67b"><circle cx="1010" cy="42" r="2"/><circle cx="1040" cy="60" r="3"/><circle cx="1090" cy="40" r="2"/><circle cx="90" cy="190" r="2"/><circle cx="140" cy="210" r="3"/><circle cx="190" cy="190" r="2"/></g>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#71f3a6"><text x="76" y="70" font-size="17">teja@github:~$ whoami</text><path d="M76 88H310" stroke="#35dc7b" stroke-width="2"/></g>
+<text x="72" y="160" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="800" letter-spacing="2" fill="#f3fff7">RAMIDI <tspan fill="url(#accent)">TEJA</tspan></text>
+<text x="77" y="202" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" letter-spacing="1.3" fill="#9bffc0">ARTIFICIAL INTELLIGENCE  ·  MACHINE LEARNING  ·  PROBLEM SOLVER</text>
+<path d="M76 220H860" stroke="#2c9b59" stroke-width="1.5"/>
+<g transform="translate(930 96)" fill="none" stroke="#49e889" stroke-width="2"><path d="M0 0H180V118H0Z" opacity=".7"/><path d="M15 22h12m-12 0 5-5m-5 5 5 5 M15 48h12m-12 0 5-5m-5 5 5 5 M15 74h12m-12 0 5-5m-5 5 5 5" /><path d="M34 22H158M34 48H145M34 74H152" opacity=".65"/></g>
+<g font-family="ui-monospace, monospace" font-size="14" fill="#a4ffc5"><text x="980" y="135">// LEARN</text><text x="980" y="161">// BUILD</text><text x="980" y="187">// SOLVE</text></g>
+<g fill="none" stroke="#46e889" opacity=".8"><circle cx="1115" cy="248" r="20"/><circle cx="1115" cy="248" r="31" stroke-dasharray="3 7"/><path d="M1098 248h34m-17-17v34"/></g>
+</svg>
