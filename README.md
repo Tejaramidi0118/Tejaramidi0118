@@ -4,16 +4,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050906,35:102C1C,70:1D6338,100:8FBC8F&height=190&section=header&text=RAMIDI%20TEJA&fontSize=48&fontColor=E8F5E9&fontAlignY=42&animation=fadeIn" width="100%" alt="Emerald green header"/>
 </p>
 
-<p align="center">
-  <samp>ARTIFICIAL INTELLIGENCE · SOFTWARE ENGINEERING · APPLIED RESEARCH</samp>
-</p>
 
-<p align="center">
-  <a href="https://github.com/Tejaramidi0118?tab=repositories">EXPLORE MY WORK</a>
-  &nbsp; · &nbsp;
-  <a href="mailto:teja.ramidi3006@gmail.com">GET IN TOUCH</a>
+ <p align="center">
+  <img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-183A2A?style=for-the-badge&logoColor=98FB98" alt="Artificial Intelligence"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-245C3B?style=for-the-badge&logoColor=98FB98" alt="Machine Learning"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/PROBLEM%20SOLVER-355E3B?style=for-the-badge&logoColor=98FB98" alt="Problem Solver"/>
 </p>
-
 ---
 
 I'm a final-year B.Tech Artificial Intelligence student at **Amrita Vishwa Vidyapeetham, Amritapuri**.
