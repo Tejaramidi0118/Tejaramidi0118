@@ -69,9 +69,6 @@
       <rect x="43" y="172" width="5" height="5" rx="1" fill="#57e88e"/>
       <text x="58" y="179">Java</text>
 
-      <rect x="43" y="204" width="5" height="5" rx="1" fill="#57e88e"/>
-      <text x="58" y="211">C / C++</text>
-
       <rect x="43" y="236" width="5" height="5" rx="1" fill="#57e88e"/>
       <text x="58" y="243">SQL</text>
     </g>
