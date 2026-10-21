@@ -126,21 +126,14 @@ A web-based drone-delivery simulation using RRT* path planning, map visualisatio
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+
+ <img src="./assets/divider.svg" width="100%" alt=""/>
 
 <h2>🛠 Technology Stack</h2>
 
 <div align="center">
-
-<img src="./assets/technology-stack-v2.svg" width="100%" alt="Programming languages, machine-learning frameworks, AI libraries, development tools, and infrastructure"/>
-
+  <img src="./assets/technology-stack-v2.svg" width="100%" alt="Programming languages, machine-learning frameworks, AI libraries, development tools, and infrastructure"/>
 </div>
-
-<p align="center">
-  <sub>Design · Develop · Evaluate · Deploy</sub>
-</p>
-
- <img src="https://leetcard.jacoblin.cool/teja_r?theme=forest&font=Ubuntu&ext=heatmap" width="100%" alt="LeetCode statistics and submission activity for teja_r"/>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
@@ -151,7 +144,7 @@ A web-based drone-delivery simulation using RRT* path planning, map visualisatio
 <a href="https://leetcode.com/u/teja_r/">
   <img
     src="https://leetcard.jacoblin.cool/teja_r?theme=forest&font=Ubuntu&ext=heatmap"
-    width="100%"
+    width="75%"
     alt="LeetCode statistics and submission activity for teja_r"
   />
 </a>
@@ -166,7 +159,6 @@ A web-based drone-delivery simulation using RRT* path planning, map visualisatio
 </a>
 
 </div>
-
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
@@ -192,38 +184,9 @@ A web-based drone-delivery simulation using RRT* path planning, map visualisatio
 
 </div>
 
- <img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<div align="center">
 
-<h2>🌐 Connect</h2>
-
-<a href="mailto:teja.ramidi3006@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-DDF5E3?style=for-the-badge&logo=gmail&logoColor=15251B" alt="Email"/>
-</a>
-<a href="https://github.com/Tejaramidi0118">
-  <img src="https://img.shields.io/badge/GITHUB-DDF5E3?style=for-the-badge&logo=github&logoColor=15251B" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/tejaramidi1234/">
-  <img src="https://img.shields.io/badge/LINKEDIN-DDF5E3?style=for-the-badge&logo=linkedin&logoColor=15251B" alt="LinkedIn"/>
-</a>
-<a href="https://leetcode.com/u/teja_r/">
-  <img src="https://img.shields.io/badge/LEETCODE-DDF5E3?style=for-the-badge&logo=leetcode&logoColor=15251B" alt="LeetCode"/>
-</a>
-
-<br/><br/>
-
-<strong>Thanks for visiting.</strong>
-
-<br/><br/>
-
-<sub>Building, experimenting, and learning through real projects.</sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=50C878&height=100&section=footer" width="100%" alt="Green footer"/>
-
-</div>
 
 <br/><br/>
 
