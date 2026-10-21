@@ -171,21 +171,6 @@ I'm also interested in LLM applications, retrieval-augmented generation, and bui
 
 ---
 
-## A little beyond the code
-
-**Education**
-
-B.Tech in Artificial Intelligence  
-Amrita Vishwa Vidyapeetham, Amritapuri · 2023–2027  
-GPA: 8.68/10
-
-**Certifications**
-
-- Google Cloud Computing Foundations Certificate — Google Cloud
-- Elements of AI — MinnaLearn & University of Helsinki
-
----
-
 <p align="center">
   <a href="mailto:teja.ramidi3006@gmail.com">teja.ramidi3006@gmail.com</a>
   &nbsp; · &nbsp;
