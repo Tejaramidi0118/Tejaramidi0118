@@ -1,187 +1,239 @@
-# RAMIDI TEJA
+ <div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050906,50:102D20,100:1D6338&height=150&section=header&text=RAMIDI%20TEJA&fontSize=46&fontColor=E8F5E9&fontAlignY=48" width="100%" alt="Ramidi Teja — emerald profile banner"/>
-</p>
+<img src="./assets/header.svg" width="100%" alt="Ramidi Teja — Artificial Intelligence, Machine Learning, Problem Solver"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-163D28?style=for-the-badge&labelColor=07130D&color=245C3B" alt="Artificial Intelligence"/>
-  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-163D28?style=for-the-badge&labelColor=07130D&color=245C3B" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/PROBLEM%20SOLVER-163D28?style=for-the-badge&labelColor=07130D&color=245C3B" alt="Problem Solver"/>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/Tejaramidi0118?tab=repositories">EXPLORE PROJECTS</a>
-  &nbsp; ◈ &nbsp;
-  <a href="mailto:teja.ramidi3006@gmail.com">CONTACT</a>
-</p>
+<a href="https://github.com/Tejaramidi0118">
+  <img src="https://komarev.com/ghpvc/?username=Tejaramidi0118&style=flat-square&color=50C878&label=PROFILE+VIEWS" alt="Profile views"/>
+</a>
+<a href="https://github.com/Tejaramidi0118?tab=followers">
+  <img src="https://img.shields.io/github/followers/Tejaramidi0118?style=flat-square&color=50C878&label=FOLLOWERS" alt="GitHub followers"/>
+</a>
+<a href="https://github.com/Tejaramidi0118?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Tejaramidi0118?style=flat-square&color=50C878&label=STARS" alt="GitHub stars"/>
+</a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=1000&color=69DB91&center=true&vCenter=true&width=650&lines=Learning+by+building.;Turning+data+into+intelligence.;Solving+problems+with+code." alt="Animated tagline"/>
-</p>
+</div>
 
----
+<br/>
 
-## `$ whoami`
+<div align="center">
 
-I'm a final-year B.Tech Artificial Intelligence student at **Amrita Vishwa Vidyapeetham, Amritapuri**.
+<a href="mailto:teja.ramidi3006@gmail.com">
+  <img src="https://img.shields.io/badge/✉️_Email-DDF5E3?style=for-the-badge&labelColor=DDF5E3&color=DDF5E3" alt="Email"/>
+</a>
+<a href="https://github.com/Tejaramidi0118">
+  <img src="https://img.shields.io/badge/🐙_GitHub-DDF5E3?style=for-the-badge&labelColor=DDF5E3&color=DDF5E3" alt="GitHub"/>
+</a>
 
-My interests span machine learning, NLP, computer vision, and data-driven applications. I like understanding a problem from the ground up — the data, the algorithm, the model, and the application built around it.
+</div>
 
-I use projects to explore ideas, test approaches, and strengthen my engineering skills.
+<br/>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## `$ ls ./projects`
+<h2>⚡ Profile Pulse</h2>
 
-### `01` / EchoMind
+<img src="./assets/profile-pulse.svg" width="100%" alt="Ramidi Teja's profile pulse: interests, current focus, and engineering goals"/>
 
-**Emotion-Aware Journal Analysis System**
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-A multilingual emotion detection system combining text and speech analysis across four languages, with personalized recommendations informed by journal history and user feedback.
+<h1>🧬 About Me</h1>
 
-- Designed an Emotional Momentum Score.
-- Developed a RAG-based memory system for context-aware recommendations.
+I'm Ramidi Teja, a final-year Artificial Intelligence undergraduate who enjoys building intelligent systems that solve practical problems.
 
-`Python` `XLM-RoBERTa` `Hugging Face` `LangChain` `Groq API` `RAG`
+<div align="center">
 
----
+`ARTIFICIAL INTELLIGENCE` · `MACHINE LEARNING` · `PROBLEM SOLVER`
 
-### `02` / Sign Language Translation
+</div>
 
-**Computer Vision · Deep Learning**
+My interests span machine learning, deep learning, natural language processing, computer vision, and AI-powered applications.
 
-A sign language recognition system built around transfer learning, image preprocessing, data augmentation, and real-time inference.
+I enjoy working across the entire development process—from preparing data and training models to building APIs, integrating databases, and developing usable applications.
 
-- Used ResNet-18 and a custom gated residual adapter.
-- Applied Grad-CAM to interpret model predictions.
-- Reported approximately 12% improvement in gesture classification accuracy.
+My projects explore multilingual emotion analysis, sign language recognition, geospatial intelligence, and intelligent delivery simulations.
 
-[View source code →](https://github.com/Tejaramidi0118/Sign-Language-Translation)
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-`Python` `PyTorch` `OpenCV` `MediaPipe`
+<h1>🚀 Featured Projects</h1>
 
----
+<div align="center">
 
-### `03` / Urban Heat Island Detection
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Geospatial Data Science · Prediction**
+<h2>🧠 EchoMind</h2>
 
-An analysis of 25 years of NASA satellite temperature data to identify urban heat hotspots and forecast potential heat-risk zones.
+**Emotion-Aware Journal Analysis**
 
-- Processed satellite data using PySpark.
-- Applied machine learning forecasting and geospatial visualization.
+A multilingual emotion-analysis system combining text and speech signals across four languages. It uses journal history and retrieval-augmented generation to provide context-aware reflections and personalized recommendations.
+
+**Tech**
+
+`Python` `XLM-RoBERTa` `Hugging Face` `LangChain` `RAG` `Groq API`
+
+<br/>
+
+<a href="https://github.com/Tejaramidi0118/Emotion-Aware-Journal-Analysis-System">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-50C878?style=for-the-badge&logo=github&logoColor=15251B" alt="EchoMind repository"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h2>🌡️ Urban Heat Island</h2>
+
+**Detection & Prediction**
+
+A geospatial machine-learning project analysing 25 years of NASA satellite temperature data. Uses distributed processing and forecasting to explore temperature patterns and urban heat trends.
+
+**Tech**
 
 `Python` `PySpark` `Spark MLlib` `Streamlit` `Google Earth Engine`
 
----
+<br/>
 
-### `04` / Real-Time Drone Delivery
+<sub>Geospatial analytics · Satellite data · Forecasting</sub>
 
-**Path Planning · Geospatial Systems**
+</td>
+</tr>
 
-A web-based drone delivery simulation incorporating route planning, real-world map data, live movement, battery tracking, and telemetry visualization.
+<tr>
+<td width="50%" valign="top">
 
-- Implemented RRT* path planning.
-- Reported a 15% reduction in delivery distance.
+<h2>🤟 Sign Language Translation</h2>
 
-[View source code →](https://github.com/Tejaramidi0118/Real-time-Drone-Delivery-System)
+**Deep Learning & Computer Vision**
+
+A sign-language recognition system using ResNet-18 transfer learning, region-of-interest preprocessing, and synthetic data augmentation. Includes real-time inference with OpenCV and MediaPipe, plus Grad-CAM-based visual explanations.
+
+**Tech**
+
+`Python` `PyTorch` `ResNet-18` `OpenCV` `MediaPipe`
+
+<br/>
+
+<a href="https://github.com/Tejaramidi0118/Sign-Language-Translation">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-50C878?style=for-the-badge&logo=github&logoColor=15251B" alt="Sign Language Translation repository"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h2>🚁 Real-Time Drone Delivery</h2>
+
+**Intelligent Route Planning**
+
+A web-based drone delivery simulation using RRT* route planning, map visualisation, live movement tracking, battery monitoring, and telemetry. The project explores delivery routing under practical operational constraints.
+
+**Tech**
 
 `Python` `Flask` `RRT*` `Folium` `PostgreSQL`
 
----
+<br/>
 
-## `$ cat ./toolkit`
+<a href="https://github.com/Tejaramidi0118/Real-time-Drone-Delivery-System">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-50C878?style=for-the-badge&logo=github&logoColor=15251B" alt="Drone Delivery repository"/>
+</a>
 
-<p>
-  <strong>LANGUAGES</strong><br/>
-  <img src="https://img.shields.io/badge/Python-183A2A?style=flat-square&logo=python&logoColor=98FB98" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-183A2A?style=flat-square&logo=openjdk&logoColor=98FB98" alt="Java"/>
-  <img src="https://img.shields.io/badge/SQL-183A2A?style=flat-square&logo=postgresql&logoColor=98FB98" alt="SQL"/>
-</p>
+</td>
+</tr>
+</table>
 
-<p>
-  <strong>AI / ML / GENERATIVE AI</strong><br/>
-  <img src="https://img.shields.io/badge/PyTorch-183A2A?style=flat-square&logo=pytorch&logoColor=98FB98" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-183A2A?style=flat-square&logo=tensorflow&logoColor=98FB98" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/scikit--learn-183A2A?style=flat-square&logo=scikitlearn&logoColor=98FB98" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-183A2A?style=flat-square&logo=huggingface&logoColor=98FB98" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/LangChain-183A2A?style=flat-square&logo=langchain&logoColor=98FB98" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/NLP-183A2A?style=flat-square&logoColor=98FB98" alt="NLP"/>
-  <img src="https://img.shields.io/badge/RAG-183A2A?style=flat-square&logoColor=98FB98" alt="RAG"/>
-</p>
+</div>
 
-<p>
-  <strong>APPLICATIONS / DATA</strong><br/>
-  <img src="https://img.shields.io/badge/Flask-183A2A?style=flat-square&logo=flask&logoColor=98FB98" alt="Flask"/>
-  <img src="https://img.shields.io/badge/FastAPI-183A2A?style=flat-square&logo=fastapi&logoColor=98FB98" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-183A2A?style=flat-square&logo=postgresql&logoColor=98FB98" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/OpenCV-183A2A?style=flat-square&logo=opencv&logoColor=98FB98" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/MediaPipe-183A2A?style=flat-square&logoColor=98FB98" alt="MediaPipe"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-183A2A?style=flat-square&logo=apachespark&logoColor=98FB98" alt="Apache Spark"/>
-</p>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<p>
-  <strong>TOOLS / PLATFORMS</strong><br/>
-  <img src="https://img.shields.io/badge/Git-183A2A?style=flat-square&logo=git&logoColor=98FB98" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-183A2A?style=flat-square&logo=github&logoColor=98FB98" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Docker-183A2A?style=flat-square&logo=docker&logoColor=98FB98" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-183A2A?style=flat-square&logo=kubernetes&logoColor=98FB98" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-183A2A?style=flat-square&logo=googlecloud&logoColor=98FB98" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/Hadoop-183A2A?style=flat-square&logo=apachehadoop&logoColor=98FB98" alt="Hadoop"/>
-</p>
+<h2>🛠 Technology Stack</h2>
 
----
+<div align="center">
 
-## `$ ./profile-pulse`
+<img src="./assets/technology-stack-v2.svg" width="100%" alt="Ramidi Teja's technology stack"/>
 
-<p align="center">
-  <img src="https://terminal-identity-opal.vercel.app/api?name=Teja%20Ramidi&role=Artificial%20Intelligence%20%7C%20Machine%20Learning&tagline=Building%20and%20learning%20through%20real%20projects.&theme=obsidian/graphite&username=Tejaramidi0118&pattern=grid&accent=%2350C878&motion=pulse&width=980&height=480" width="100%" alt="Dynamic developer profile card"/>
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejaramidi0118&bg_color=07130D&color=E6F4EA&line=50C878&point=98FB98&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-</p>
+**Languages**
 
----
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql&theme=dark" alt="Python, Java, C, C++, SQL"/>
 
-## `$ ./commit-arcade`
+**AI · Machine Learning · Deep Learning**
 
-<p align="center">
-  <i>Every commit moves the game forward.</i>
-</p>
+<img src="https://img.shields.io/badge/PyTorch-181717?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-181717?style=flat-square&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/scikit--learn-181717?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/Hugging_Face-181717?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/OpenCV-181717?style=flat-square&logo=opencv&logoColor=5C9E31" alt="OpenCV"/>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tejaramidi0118/Tejaramidi0118/output/pacman-contribution-graph-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tejaramidi0118/Tejaramidi0118/output/pacman-contribution-graph.svg"/>
-    <img src="https://raw.githubusercontent.com/Tejaramidi0118/Tejaramidi0118/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man animated contribution graph"/>
-  </picture>
-</p>
+<br/>
 
----
+**Generative AI · NLP**
 
-## `$ cat ./current-focus`
+<img src="https://img.shields.io/badge/LLMs-181717?style=flat-square&labelColor=181717&color=50C878" alt="Large language models"/>
+<img src="https://img.shields.io/badge/RAG-181717?style=flat-square&labelColor=181717&color=50C878" alt="Retrieval augmented generation"/>
+<img src="https://img.shields.io/badge/LangChain-181717?style=flat-square&logo=langchain&logoColor=50C878" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Transformers-181717?style=flat-square&labelColor=181717&color=50C878" alt="Transformers"/>
 
-- Exploring graph-based approaches to ICU deterioration prediction using physiological time-series data.
-- Learning more about LLM applications, RAG, and agentic AI.
-- Strengthening software engineering, algorithms, APIs, and database skills.
+<br/>
 
----
+**Development · Data · Infrastructure**
 
-<p align="center">
-  <a href="mailto:teja.ramidi3006@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACT-183A2A?style=for-the-badge&logo=gmail&logoColor=98FB98" alt="Contact by email"/>
-  </a>
-  <a href="https://github.com/Tejaramidi0118">
-    <img src="https://img.shields.io/badge/GITHUB-183A2A?style=for-the-badge&logo=github&logoColor=98FB98" alt="GitHub profile"/>
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,postgres,docker,git,github,gcp,linux&theme=dark" alt="Flask, FastAPI, PostgreSQL, Docker, Git, GitHub, Google Cloud and Linux"/>
 
-<p align="center">
-  <sub>BUILT WITH CURIOSITY. IMPROVED ONE COMMIT AT A TIME.</sub>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8FBC8F,50:176B3A,100:050906&height=100&section=footer" width="100%" alt="Emerald footer"/>
-</p>
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<h2>🕹️ Contribution Arcade</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tejaramidi0118/Tejaramidi0118/output/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tejaramidi0118/Tejaramidi0118/output/pacman-contribution-graph.svg"/>
+  <img src="https://raw.githubusercontent.com/Tejaramidi0118/Tejaramidi0118/output/pacman-contribution-graph.svg" width="95%" alt="Ramidi Teja's GitHub contribution Pac-Man animation"/>
+</picture>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<h2>🎯 Current Focus</h2>
+
+<div align="center">
+
+| Focus | What I'm working toward |
+|:--|:--|
+| **AI Engineering** | Building useful applications around ML and LLMs |
+| **Model Development** | Improving practical ML and deep-learning workflows |
+| **Software Engineering** | Writing maintainable code and strengthening DSA fundamentals |
+| **Deployment** | Connecting models, APIs, databases, and applications |
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<div align="center">
+
+<h1>🌐 Connect</h1>
+
+<a href="https://github.com/Tejaramidi0118">
+  <img src="https://img.shields.io/badge/GitHub-15251B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:teja.ramidi3006@gmail.com">
+  <img src="https://img.shields.io/badge/Email-15251B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<h3>Thanks for visiting ✦</h3>
+
+<code>ARTIFICIAL INTELLIGENCE · MACHINE LEARNING · PROBLEM SOLVER</code>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=50C878&height=100&section=footer" width="100%" alt="Green footer"/>
+
+</div>
