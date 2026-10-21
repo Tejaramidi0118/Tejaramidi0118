@@ -1,7 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="58" viewBox="0 0 1200 58" role="img" aria-label="Green circuit divider">
-<defs><linearGradient id="g"><stop stop-color="#0b2a19"/><stop offset=".5" stop-color="#57f59a"/><stop offset="1" stop-color="#0b2a19"/></linearGradient></defs>
-<rect width="1200" height="58" rx="8" fill="#030b07"/>
-<g fill="none" stroke="url(#g)" stroke-width="1.4"><path d="M10 29H420l22-12h90M10 37H340l18-8M1190 29H780l-22-12h-90M1190 37H860l-18-8"/><path d="M490 29h75l35-18h0M710 29h-75l-35-18" stroke-width="1.7"/></g>
-<g fill="#73ffae"><circle cx="420" cy="29" r="3"/><circle cx="780" cy="29" r="3"/><circle cx="358" cy="29" r="2"/><circle cx="842" cy="29" r="2"/></g>
-<path d="M600 7l22 22-22 22-22-22z" fill="#07180e" stroke="#70ffa9" stroke-width="1.8"/><path d="M589 33l7-10 5 7 5-5 6 8z" fill="none" stroke="#70ffa9" stroke-width="1.7"/>
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="48" viewBox="0 0 1200 48"
+     role="img" aria-label="Minimal green circuit divider">
+
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#123c25" stop-opacity="0.15"/>
+      <stop offset="25%" stop-color="#23884a" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#6bf5a0"/>
+      <stop offset="75%" stop-color="#23884a" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#123c25" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Main separator -->
+  <path d="M12 24H530 M670 24H1188"
+        fill="none" stroke="url(#line)" stroke-width="1.4"/>
+
+  <!-- Subtle circuit details -->
+  <path d="M170 24V31H240 M960 24V17H1030"
+        fill="none" stroke="#287d49" stroke-width="1"/>
+
+  <circle cx="170" cy="24" r="2.5" fill="#50dc83"/>
+  <circle cx="1030" cy="24" r="2.5" fill="#50dc83"/>
+
+  <!-- Centre emblem -->
+  <path d="M600 8L616 24L600 40L584 24Z"
+        fill="#06150c" stroke="#50dc83" stroke-width="1.4"/>
+
+  <path d="M592 26L598 19L602 25L608 20"
+        fill="none" stroke="#a5ffca"
+        stroke-width="1.5"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+
 </svg>
