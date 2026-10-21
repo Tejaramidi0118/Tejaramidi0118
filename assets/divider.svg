@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="58" viewBox="0 0 1200 58" role="img" aria-label="Green circuit divider">
+<defs><linearGradient id="g"><stop stop-color="#0b2a19"/><stop offset=".5" stop-color="#57f59a"/><stop offset="1" stop-color="#0b2a19"/></linearGradient></defs>
+<rect width="1200" height="58" rx="8" fill="#030b07"/>
+<g fill="none" stroke="url(#g)" stroke-width="1.4"><path d="M10 29H420l22-12h90M10 37H340l18-8M1190 29H780l-22-12h-90M1190 37H860l-18-8"/><path d="M490 29h75l35-18h0M710 29h-75l-35-18" stroke-width="1.7"/></g>
+<g fill="#73ffae"><circle cx="420" cy="29" r="3"/><circle cx="780" cy="29" r="3"/><circle cx="358" cy="29" r="2"/><circle cx="842" cy="29" r="2"/></g>
+<path d="M600 7l22 22-22 22-22-22z" fill="#07180e" stroke="#70ffa9" stroke-width="1.8"/><path d="M589 33l7-10 5 7 5-5 6 8z" fill="none" stroke="#70ffa9" stroke-width="1.7"/>
+</svg>
