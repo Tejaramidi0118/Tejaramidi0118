@@ -140,6 +140,34 @@ A web-based drone-delivery simulation using RRT* path planning, map visualisatio
   <sub>Design · Develop · Evaluate · Deploy</sub>
 </p>
 
+ <img src="https://leetcard.jacoblin.cool/teja_r?theme=forest&font=Ubuntu&ext=heatmap" width="100%" alt="LeetCode statistics and submission activity for teja_r"/>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<h2>🧩 LeetCode Journey</h2>
+
+<div align="center">
+
+<a href="https://leetcode.com/u/teja_r/">
+  <img
+    src="https://leetcard.jacoblin.cool/teja_r?theme=forest&font=Ubuntu&ext=heatmap"
+    width="100%"
+    alt="LeetCode statistics and submission activity for teja_r"
+  />
+</a>
+
+<br/>
+
+<a href="https://leetcode.com/u/teja_r/">
+  <img
+    src="https://img.shields.io/badge/VIEW_LEETCODE_PROFILE-50C878?style=for-the-badge&logo=leetcode&logoColor=15251B"
+    alt="View LeetCode profile"
+  />
+</a>
+
+</div>
+
+
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
 <h2>🕹️ Contribution Arcade</h2>
@@ -164,7 +192,7 @@ A web-based drone-delivery simulation using RRT* path planning, map visualisatio
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+ <img src="./assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
 
@@ -176,6 +204,26 @@ A web-based drone-delivery simulation using RRT* path planning, map visualisatio
 <a href="https://github.com/Tejaramidi0118">
   <img src="https://img.shields.io/badge/GITHUB-DDF5E3?style=for-the-badge&logo=github&logoColor=15251B" alt="GitHub"/>
 </a>
+<a href="https://www.linkedin.com/in/tejaramidi1234/">
+  <img src="https://img.shields.io/badge/LINKEDIN-DDF5E3?style=for-the-badge&logo=linkedin&logoColor=15251B" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/u/teja_r/">
+  <img src="https://img.shields.io/badge/LEETCODE-DDF5E3?style=for-the-badge&logo=leetcode&logoColor=15251B" alt="LeetCode"/>
+</a>
+
+<br/><br/>
+
+<strong>Thanks for visiting.</strong>
+
+<br/><br/>
+
+<sub>Building, experimenting, and learning through real projects.</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=50C878&height=100&section=footer" width="100%" alt="Green footer"/>
+
+</div>
 
 <br/><br/>
 
