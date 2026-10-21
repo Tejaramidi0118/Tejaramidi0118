@@ -1,9 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Ramidi Teja — Artificial Intelligence and Machine Learning</title>
-  <desc id="desc">A dark green technology banner with a clean nameplate, circuit patterns, and learning, building, and problem-solving motifs.</desc>
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="300" viewBox="0 0 1200 300"
+     role="img" aria-labelledby="title desc">
+
+  <title id="title">Ramidi Teja — AI and Machine Learning</title>
+  <desc id="desc">Dark green technology banner with a clean nameplate and subtle circuit graphics.</desc>
 
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#020806"/>
       <stop offset="55%" stop-color="#061a11"/>
       <stop offset="100%" stop-color="#020604"/>
@@ -15,89 +19,87 @@
     </linearGradient>
 
     <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M28 0H0V28" fill="none" stroke="#1d7546" stroke-width="0.7" opacity="0.34"/>
+      <path d="M28 0H0V28"
+            fill="none" stroke="#1d7546"
+            stroke-width="0.7" opacity="0.3"/>
     </pattern>
-
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
 
   <!-- Background -->
-  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#background)"/>
   <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
 
   <!-- Circuit traces -->
-  <g fill="none" stroke="#35dc7b" stroke-width="2" opacity="0.65">
-    <path d="M0 55H90V82H150"/>
-    <path d="M1200 70H1090V102H1040"/>
-    <path d="M0 245H170V220H250"/>
-    <path d="M1200 230H1060V258H980"/>
-
-    <circle cx="90" cy="55" r="4" fill="#35dc7b"/>
-    <circle cx="1090" cy="70" r="4" fill="#35dc7b"/>
-    <circle cx="170" cy="245" r="4" fill="#35dc7b"/>
-    <circle cx="1060" cy="230" r="4" fill="#35dc7b"/>
+  <g fill="none" stroke="#35dc7b" stroke-width="2" opacity="0.55">
+    <path d="M0 55H65V80H100"/>
+    <path d="M1200 65H1125V95H1090"/>
+    <path d="M0 245H105V220H150"/>
+    <path d="M1200 235H1100V255H1050"/>
   </g>
 
-  <!-- Ambient particles -->
-  <g fill="#2ee67b" opacity="0.22">
-    <circle cx="1010" cy="42" r="2"/>
-    <circle cx="1040" cy="60" r="3"/>
-    <circle cx="1090" cy="40" r="2"/>
-    <circle cx="90" cy="190" r="2"/>
-    <circle cx="140" cy="210" r="3"/>
-    <circle cx="190" cy="190" r="2"/>
+  <g fill="#35dc7b" opacity="0.8">
+    <circle cx="65" cy="55" r="3"/>
+    <circle cx="1125" cy="65" r="3"/>
+    <circle cx="105" cy="245" r="3"/>
+    <circle cx="1100" cy="235" r="3"/>
   </g>
 
-  <!-- Main identity -->
-  <text
-    x="76"
-    y="145"
-    font-family="Arial, Helvetica, sans-serif"
-    font-size="64"
-    font-weight="800"
-    letter-spacing="2"
-    fill="#f3fff7"
-  >RAMIDI <tspan fill="url(#accent)">TEJA</tspan></text>
+  <!-- Main name -->
+  <text x="72" y="145"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="64"
+        font-weight="800"
+        letter-spacing="2"
+        fill="#f3fff7">RAMIDI <tspan fill="url(#accent)">TEJA</tspan></text>
 
   <!-- Identity tags -->
-  <text
-    x="79"
-    y="190"
-    font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
-    font-size="16"
-    font-weight="600"
-    letter-spacing="0.8"
-    fill="#9bffc0"
-  >ARTIFICIAL INTELLIGENCE  ·  MACHINE LEARNING  ·  PROBLEM SOLVER</text>
+  <text x="78" y="190"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="16"
+        font-weight="600"
+        letter-spacing="0.6"
+        fill="#9bffc0">ARTIFICIAL INTELLIGENCE · MACHINE LEARNING · PROBLEM SOLVER</text>
 
-  <!-- Underline -->
-  <path d="M78 210H860" stroke="#2c9b59" stroke-width="1.5" opacity="0.9"/>
+  <path d="M78 211H835"
+        stroke="#2c9b59"
+        stroke-width="1.5"/>
 
   <!-- Right-side technical panel -->
-  <g transform="translate(930 96)" fill="none" stroke="#49e889" stroke-width="2">
-    <path d="M0 0H180V118H0Z" opacity="0.7"/>
-    <path d="M15 22h12m-12 0 5-5m-5 5 5 5"/>
-    <path d="M15 48h12m-12 0 5-5m-5 5 5 5"/>
-    <path d="M15 74h12m-12 0 5-5m-5 5 5 5"/>
-    <path d="M34 22H158M34 48H145M34 74H152" opacity="0.65"/>
+  <g transform="translate(920 87)">
+    <rect x="0" y="0" width="205" height="132" rx="8"
+          fill="#031009" fill-opacity="0.55"
+          stroke="#287d49" stroke-width="1.2"/>
+
+    <g stroke="#49e889" stroke-width="1.5" fill="none">
+      <path d="M18 30H38L46 22H63"/>
+      <path d="M18 61H48L56 53H76"/>
+      <path d="M18 92H38L46 84H63"/>
+      <path d="M132 30H160V48H180"/>
+      <path d="M132 61H150V79H180"/>
+      <path d="M132 92H160V110H180"/>
+    </g>
+
+    <g fill="#8bffb3">
+      <circle cx="63" cy="22" r="3"/>
+      <circle cx="76" cy="53" r="3"/>
+      <circle cx="63" cy="84" r="3"/>
+      <circle cx="180" cy="48" r="3"/>
+      <circle cx="180" cy="79" r="3"/>
+      <circle cx="180" cy="110" r="3"/>
+    </g>
+
+    <g font-family="monospace" font-size="13" fill="#b3ffd0">
+      <text x="83" y="34">LEARN</text>
+      <text x="83" y="65">BUILD</text>
+      <text x="83" y="96">SOLVE</text>
+    </g>
   </g>
 
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#a4ffc5">
-    <text x="980" y="135">// LEARN</text>
-    <text x="980" y="161">// BUILD</text>
-    <text x="980" y="187">// SOLVE</text>
+  <!-- Bottom-right accent -->
+  <g transform="translate(1125 250)" fill="none" stroke="#46e889" opacity="0.75">
+    <circle r="16"/>
+    <circle r="25" stroke-dasharray="3 6"/>
+    <path d="M-10 0H10M0-10V10"/>
   </g>
 
-  <!-- Bottom-right technical motif -->
-  <g fill="none" stroke="#46e889" opacity="0.8">
-    <circle cx="1115" cy="248" r="20"/>
-    <circle cx="1115" cy="248" r="31" stroke-dasharray="3 7"/>
-    <path d="M1098 248h34m-17-17v34"/>
-  </g>
 </svg>
