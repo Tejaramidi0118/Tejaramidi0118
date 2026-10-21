@@ -78,6 +78,11 @@ Analyses 25 years of NASA satellite temperature data using distributed processin
 
 `Python` `PySpark` `Spark MLlib` `Streamlit` `Google Earth Engine`
 
+<a href="https://github.com/kbruhadesh/Urban-Heat-Island-Detection-Prediction-">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-2ECC71?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+</a>
+
+
 </td>
 </tr>
 
